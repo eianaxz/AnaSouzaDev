@@ -1,5 +1,5 @@
 # ana souza ◈
-# Olá, eu sou Ana Souza 👋
+
 
 💻 Desenvolvedora de Software em Formação  
 🎓 Estudante de Sistemas de Informação na UFRPE  
