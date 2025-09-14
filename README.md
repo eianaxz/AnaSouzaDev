@@ -29,13 +29,16 @@
 ## 🚀 Projetos em destaque
 
 - **[Na Pele e na Consciência](https://github.com/eianaxz/NA-PELE-E-NA-CONSCI-NCIA---PROJETO.git)** – Simulador ético interativo, Python/PySide6 
--
+
 ---
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-souza-%F0%9F%A7%A0-5a424b287) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anasouzadev.code@gmail.com) 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/by.anadev/)   
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-souza-%F0%9F%A7%A0-5a424b287) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasouzadev.code@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/by.anadev/) 
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/by.anadev)
+
 
 ---
 
