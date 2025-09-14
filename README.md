@@ -1,4 +1,4 @@
-# ana souza ◈
+# ana souza • dev 
 
 
 💻 Desenvolvedora de Software em Formação  
@@ -28,7 +28,7 @@
 
 ## 🚀 Projetos em destaque
 
-- **[Na Pele e na Consciência]()** – Simulador ético interativo, Python/PySide6 
+- **[Na Pele e na Consciência](https://github.com/eianaxz/NA-PELE-E-NA-CONSCI-NCIA---PROJETO.git)** – Simulador ético interativo, Python/PySide6 
 -
 ---
 
